@@ -3,5 +3,4 @@ This is all about how to draw flowchart using html and javascript by just drag a
 
 Download the code and Enjoy...!!!!!
 
-For More Technological Knowledge visit below link
-http://www.visionfortech.com
+For More Technological Knowledge visit http://www.visionfortech.com
